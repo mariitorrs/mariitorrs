@@ -1,4 +1,4 @@
-name: Generate pink contribution snake
+name: Generate raspberry contribution snake
 
 on:
   schedule:
@@ -12,13 +12,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate pink snake SVG (light + dark)
+      - name: Generate raspberry snake SVG (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mariitorrs
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23D88EAC&color_dots=%23FFF7FA,%23F8D9E7,%23F0BBD2,%23D88EAC,%239D5279
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F0B7CC&color_dots=%2328202A,%23573447,%23844B68,%23B4658F,%23F0A3C4
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%2373783C&color_dots=%23FFF0DA,%23E6B2A0,%23D86A68,%23CA3042,%23A32235
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23B1BA6B&color_dots=%2323311E,%235A2830,%23942E3A,%23CA3042,%23F08F85
 
       - name: Publish output branch
         uses: crazy-max/ghaction-github-pages@v4
