@@ -4,7 +4,11 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&weight=400&size=23&duration=3500&pause=995&color=AB2929&width=435&lines=Oiee%2C+eu+sou+a+Mari!!;Design+de+Interfaces+e+UX%2FUI;Um+pouquinho+de+figma+e+dados)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Redaction+35&weight=400&size=25&duration=3500&pause=995&color=AB2929&center=true&vCenter=true&width=600&height=60&lines=Oiee%2C+eu+sou+a+Mari!!;Design+de+Interfaces+e+UX%2FUI;Um+pouquinho+de+figma+e+dados" alt="Typing SVG" />
+  </a>
+</div>
 
 <a href="https://www.linkedin.com/in/mariana-torres-aa95453b5/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="42" /></a>
 <a href="https://www.instagram.com/marii.torrs/"><img src="./assets/link-instagram.svg" alt="Instagram" height="42" /></a>
