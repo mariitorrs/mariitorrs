@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1400&color=A32235&center=true&vCenter=true&width=600&height=50&lines=Oi,+eu+sou+a+Mari!;design+de+interfaces+e+UX/UI;dados+e+um+pouquinho+de+m%C3%BAsica" alt="Oiee eu sou a Mari!!" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&weight=400&size=23&duration=3500&pause=995&color=AB2929&width=435&lines=Oiee%2C+eu+sou+a+Mari!!;Design+de+Interfaces+e+UX%2FUI;Um+pouquinho+de+figma+e+dados)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/mariana-torres-aa95453b5/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="42" /></a>
 <a href="https://www.instagram.com/marii.torrs/"><img src="./assets/link-instagram.svg" alt="Instagram" height="42" /></a>
