@@ -4,13 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1400&color=A32235&center=true&vCenter=true&width=640&height=60&lines=Oi,+eu+sou+a+Mari!;interfaces,+dados+e+m%C3%BAsica;UX/UI+%C2%B7+dados+%C2%B7+IA" alt="Oi, eu sou a Mari! Interfaces, dados e música." />
-
-<img src="./assets/pixel-raspberry.svg" alt="" width="46" /> &nbsp; <img src="./assets/pixel-flower.svg" alt="" width="40" /> &nbsp; <img src="./assets/pixel-heart.svg" alt="" width="46" /> &nbsp; <img src="./assets/pixel-sparkle.svg" alt="" width="34" />
-
-<img src="./assets/garden.svg" alt="Um jardim em pixel art animado, com nuvens, flores balançando, framboesas e corações subindo." width="100%" />
-
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1400&color=A32235&center=true&vCenter=true&width=600&height=50&lines=Oi,+eu+sou+a+Mari!;design+de+interfaces+e+UX/UI;dados+e+um+pouquinho+de+m%C3%BAsica" alt="Oi, eu sou a Mari! Interfaces, dados e música." />
 
 <a href="https://www.linkedin.com/in/mariana-torres-aa95453b5/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="42" /></a>
 <a href="https://www.instagram.com/marii.torrs/"><img src="./assets/link-instagram.svg" alt="Instagram" height="42" /></a>
@@ -20,15 +14,16 @@
 
 <br />
 
-<img src="./assets/title-sobre.svg" alt="Um pouco sobre mim" width="100%" />
+## Sobre
 
-Sou a **Mariana Torres**, mas pode me chamar de **Mari**. Estudo tecnologia na **Germinare Tech** e trabalho como **Assistente de Desenvolvimento em Risco de Crédito no PicPay**.
+Sou a **Mariana Torres**, mas pode me chamar de **Mari**. Gosto de criar interfaces, simplificar experiências e entender o que os dados têm para contar. Entre o Figma e o código, vou colocando minhas ideias em prática.
 
-Gosto de criar interfaces, pensar em como deixar uma experiência mais simples e entender o que os dados têm para contar. Entre o Figma e o código, vou aprendendo e colocando minhas ideias em prática.
-
-- 💼 **No trabalho:** análise de dados, dashboards e risco de crédito.
-- 🎨 **Nos projetos:** UX/UI, front-end e soluções com inteligência artificial.
-- 🎸 **Fora da tela:** ukulele, música, filmes e um carinho especial por *Anne with an E*.
+| | |
+| --- | --- |
+| **Formação** | Tecnologia na Germinare Tech |
+| **Trabalho** | Assistente de Desenvolvimento em Risco de Crédito no PicPay |
+| **Foco** | UX/UI (em transição), com análise de dados no dia a dia |
+| **Fora da tela** | Ukulele, música, filmes e um carinho especial por *Anne with an E* |
 
 <details>
 <summary>A little about me, in English</summary>
@@ -41,14 +36,12 @@ I enjoy designing interfaces, making experiences easier to use and exploring wha
 
 </details>
 
-<br />
+## Stack
 
-<img src="./assets/title-usos.svg" alt="O que eu uso e estudo" width="100%" />
-
-<img src="./assets/tech-board.svg" alt="Tecnologias que eu uso e estudo, agrupadas por área: desenvolvimento, dados e IA, design e experiência, e ferramentas." width="100%" />
+<img src="./assets/tech-board.svg" alt="Tecnologias que eu uso e estudo, agrupadas por área." width="100%" />
 
 <details>
-<summary>Mais sobre o que estudo na Germinare Tech</summary>
+<summary>O que estou estudando na Germinare Tech</summary>
 
 <br />
 
@@ -57,30 +50,28 @@ I enjoy designing interfaces, making experiences easier to use and exploring wha
 | Front-end | HTML, CSS, JavaScript, responsividade e interfaces web |
 | Back-end | Python, Java, APIs REST, FastAPI e integração de sistemas |
 | Banco de dados | SQL, PostgreSQL, modelagem, consultas e CRUD |
-| UX/UI e IHC | Figma, pesquisa, wireframes, protótipos, usabilidade, acessibilidade, heurísticas e testes A/B |
-| Inteligência artificial | LLMs, agentes de IA, LangGraph, integração com APIs e bancos vetoriais com Qdrant |
-| Dados e BI | Pandas, PySpark, tratamento de dados, dashboards e análise de indicadores |
-| Estatística | Probabilidade, distribuições normal e binomial e testes de hipóteses |
+| UX/UI e IHC | Figma, pesquisa, wireframes, protótipos, usabilidade, acessibilidade e testes A/B |
+| Inteligência artificial | LLMs, agentes de IA, LangGraph e bancos vetoriais com Qdrant |
+| Dados e BI | Pandas, PySpark, tratamento de dados, dashboards e indicadores |
+| Estatística | Probabilidade, distribuições e testes de hipóteses |
 | Mobile | Android, Kotlin, Firebase e integração com APIs |
-| DevOps | Git, GitHub, Linux, Docker, Kubernetes, containers e deploy |
-| Engenharia de software | Requisitos, documentação, testes, arquitetura e desenvolvimento colaborativo |
+| DevOps | Git, GitHub, Linux, Docker, Kubernetes e deploy |
+| Engenharia de software | Requisitos, documentação, testes, arquitetura e trabalho em equipe |
 
 </details>
 
-<br />
-
-<img src="./assets/title-projetos.svg" alt="Projetos no caminho" width="100%" />
+## Projetos
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><img src="./assets/project-frigus.svg" alt="Frigus: plataforma para organizar estoques de alimentos. Design de interfaces e experiência." width="400" /></td>
-<td align="center"><img src="./assets/project-ai-advisor.svg" alt="Assessor financeiro com IA: assistente financeiro com agentes de IA e APIs." width="400" /></td>
+<td align="center"><img src="./assets/project-frigus.svg" alt="Frigus: plataforma para organizar estoques de alimentos." width="400" /></td>
+<td align="center"><img src="./assets/project-ai-advisor.svg" alt="Assessor financeiro com IA." width="400" /></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/project-saveit.svg" alt="SaveIt: projeto em equipe sobre redução do desperdício." width="400" /></td>
-<td align="center"><img src="./assets/project-ux.svg" alt="Interfaces e experiências: estudos de telas, fluxos e protótipos." width="400" /></td>
+<td align="center"><img src="./assets/project-ux.svg" alt="Interfaces e experiências: estudos de telas e fluxos." width="400" /></td>
 </tr>
 </table>
 
@@ -88,22 +79,20 @@ I enjoy designing interfaces, making experiences easier to use and exploring wha
 
 </div>
 
-<br />
-
-<img src="./assets/title-musica.svg" alt="Entre um código e outro" width="100%" />
+## Música
 
 Quase sempre tem música por aqui. **Laufey** e **Billie Eilish** estão entre as minhas favoritas, e quando dá eu também toco um pouco de ukulele.
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/31qn7tgllym4wdjjclx6cgggxv5u?si=cf243e39488b45db"><img src="./assets/spotify-recent.svg" alt="Músicas que eu ouvi por último no Spotify" width="560" /></a>
+<a href="https://open.spotify.com/user/31qn7tgllym4wdjjclx6cgggxv5u?si=cf243e39488b45db">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qn7tgllym4wdjjclx6cgggxv5u&amp;count=5&amp;unique=true" alt="Músicas tocadas recentemente no Spotify" />
+</a>
 
 </div>
 
-<br />
-
 <details>
-<summary><b>Minha atividade no GitHub</b></summary>
+<summary>Atividade no GitHub</summary>
 
 <br />
 
@@ -121,17 +110,11 @@ Quase sempre tem música por aqui. **Laufey** e **Billie Eilish** estão entre a
 
 </details>
 
-<br />
-
-<img src="./assets/title-conversa.svg" alt="Vamos conversar?" width="100%" />
+## Contato
 
 Gosto de trocar ideias sobre design, tecnologia e dados. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/mariana-torres-aa95453b5/) ou no [Instagram](https://www.instagram.com/marii.torrs/).
 
-<br />
-
 <div align="center">
-
-<img src="./assets/garden.svg" alt="" width="100%" />
 
 <img src="./assets/footer.svg" alt="Feito com carinho." width="100%" />
 

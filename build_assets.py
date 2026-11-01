@@ -272,13 +272,5 @@ if __name__ == "__main__":
     link_pill("link-spotify.svg", "Spotify", OLIVE)
     link_pill("link-repositories.svg", "Repositórios", FOREST)
 
-    # Snapshot inicial (print do Spotify enviado pela Mari). O workflow sobrescreve.
-    spotify_card([
-        {"title": "Acid Rain", "artist": "Avenged Sevenfold", "minutes": 5},
-        {"title": "Always", "artist": "Daniel Caesar", "minutes": 12, "explicit": True},
-        {"title": "Linger", "artist": "The Cranberries", "minutes": 16},
-        {"title": "Talk to Her", "artist": "The Marías", "minutes": 23},
-        {"title": "unlearning you", "artist": "Crying City", "minutes": 29},
-    ])
     footer("footer.svg")
     print("ok")
