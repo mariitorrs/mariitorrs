@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Atualmente: assistente de desenvolvimento em risco de crédito no PicPay; estudante de tecnologia na Germinare Tech">
+<style>
+  .dot{transform-box:fill-box;transform-origin:center;animation:pulse 1.8s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.7)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<g transform="translate(0 0)">
+  <rect x="2" y="2" width="486" height="166" rx="22" fill="#FFF6F9" stroke="#EDC3D4" stroke-width="2"/>
+  <rect x="14" y="30" width="5" height="108" rx="2.5" fill="#D4658F"/>
+  <rect x="34" y="26" width="206" height="28" rx="14" fill="#FBDDE8"/>
+  <circle class="dot" cx="52" cy="40" r="5" fill="#E0568C"/>
+  <text x="66" y="45" font-size="13" font-weight="700" fill="#9B4468" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" letter-spacing="1">TRABALHANDO AGORA</text>
+  <text x="34" y="96" font-size="30" font-weight="800" fill="#6A2F4A" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">PicPay</text>
+  <text x="34" y="124" font-size="16" font-weight="600" fill="#8E4E69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">Assistente de Desenvolvimento · Risco de Crédito</text>
+  <text x="34" y="148" font-size="13" font-style="italic" fill="#AA7B90" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">Development Assistant · Credit Risk</text>
+</g>
+<g transform="translate(510 0)">
+  <rect x="2" y="2" width="486" height="166" rx="22" fill="#FFF6F9" stroke="#EDC3D4" stroke-width="2"/>
+  <rect x="14" y="30" width="5" height="108" rx="2.5" fill="#E9A3BE"/>
+  <rect x="34" y="26" width="188" height="28" rx="14" fill="#FBDDE8"/>
+  <circle class="dot" cx="52" cy="40" r="5" fill="#E0568C"/>
+  <text x="66" y="45" font-size="13" font-weight="700" fill="#9B4468" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" letter-spacing="1">ESTUDANDO AGORA</text>
+  <text x="34" y="96" font-size="30" font-weight="800" fill="#6A2F4A" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">Germinare Tech</text>
+  <text x="34" y="124" font-size="16" font-weight="600" fill="#8E4E69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">Estudante de Tecnologia</text>
+  <text x="34" y="148" font-size="13" font-style="italic" fill="#AA7B90" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">Tech student · front-end, back-end, data, AI &amp; UX/UI</text>
+</g>
+</svg>

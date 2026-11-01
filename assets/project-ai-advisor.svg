@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="214" viewBox="0 0 490 214" role="img" aria-label="Projeto AI Financial Advisor">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#F3B3CB"/><stop offset=".5" stop-color="#D4658F"/><stop offset="1" stop-color="#F3B3CB"/></linearGradient>
+  <clipPath id="c"><rect x="2" y="2" width="486" height="210" rx="22"/></clipPath>
+</defs>
+<style>
+  .ic{animation:fl 3.6s ease-in-out infinite;animation-delay:0.5s}
+  @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+  .sh{animation:sh 4.5s ease-in-out infinite;animation-delay:0.5s}
+  @keyframes sh{0%{transform:translateX(-200px)}60%,100%{transform:translateX(500px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<rect x="2" y="2" width="486" height="210" rx="22" fill="#FFF6F9" stroke="#EDC3D4" stroke-width="2"/>
+<g clip-path="url(#c)"><rect x="2" y="2" width="486" height="7" fill="url(#g)"/>
+  <rect class="sh" x="0" y="2" width="120" height="7" fill="#fff" opacity=".7"/></g>
+<g class="ic"><circle cx="58" cy="52" r="24" fill="#FBDDE8"/><text x="58" y="62" font-size="26" text-anchor="middle" fill="#C24E7B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">✦</text></g>
+<text x="96" y="50" font-size="23" font-weight="800" fill="#6A2F4A" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">AI Financial Advisor</text>
+<text x="96" y="72" font-size="13" font-weight="600" fill="#B0638A" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" letter-spacing=".4">Python · IA · APIs</text>
+<line x1="34" y1="92" x2="456" y2="92" stroke="#F1D2DE" stroke-width="1.5" stroke-dasharray="3 5"/>
+<text x="34" y="118" font-size="14.5" fill="#5E3C4C" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">Projeto de um assistente financeiro com inteligência</text><text x="34" y="139" font-size="14.5" fill="#5E3C4C" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">artificial, combinando lógica, integrações e dados.</text>
+<text x="34" y="172" font-size="12.5" font-style="italic" fill="#A27A8C" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">An AI-powered financial assistant combining logic,</text><text x="34" y="190" font-size="12.5" font-style="italic" fill="#A27A8C" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">integrations and data.</text>
+</svg>
