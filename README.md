@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1400&color=A32235&center=true&vCenter=true&width=600&height=50&lines=Oi,+eu+sou+a+Mari!;design+de+interfaces+e+UX/UI;dados+e+um+pouquinho+de+m%C3%BAsica" alt="Oi, eu sou a Mari! Interfaces, dados e música." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1400&color=A32235&center=true&vCenter=true&width=600&height=50&lines=Oi,+eu+sou+a+Mari!;design+de+interfaces+e+UX/UI;dados+e+um+pouquinho+de+m%C3%BAsica" alt="Oiee eu sou a Mari!!" />
 
 <a href="https://www.linkedin.com/in/mariana-torres-aa95453b5/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="42" /></a>
 <a href="https://www.instagram.com/marii.torrs/"><img src="./assets/link-instagram.svg" alt="Instagram" height="42" /></a>
@@ -14,27 +14,37 @@
 
 <br />
 
-## Sobre
+## Sobre mim
 
-Sou a **Mariana Torres**, mas pode me chamar de **Mari**. Gosto de criar interfaces, simplificar experiências e entender o que os dados têm para contar. Entre o Figma e o código, vou colocando minhas ideias em prática.
+Oi! Sou a **Mariana Torres**, mas pode me chamar de **Mari**.
+
+Sou apaixonada por tecnologia, design e por transformar ideias em experiências que realmente façam sentido para as pessoas. Gosto de explorar o lado criativo do Figma, dar vida às interfaces com código e descobrir histórias por trás dos dados.
+
+Atualmente, estou construindo meu caminho na tecnologia, unindo o que aprendo na escola com os desafios do dia a dia no trabalho. Tenho um carinho especial por **UX/UI Design**, área em que quero me aprofundar cada vez mais, sem deixar de lado minha curiosidade por desenvolvimento e dados.
 
 | | |
 | --- | --- |
-| **Formação** | Tecnologia na Germinare Tech |
-| **Trabalho** | Assistente de Desenvolvimento em Risco de Crédito no PicPay |
-| **Foco** | UX/UI (em transição), com análise de dados no dia a dia |
-| **Fora da tela** | Ukulele, música, filmes e um carinho especial por *Anne with an E* |
+| **Formação** | Ensino Médio Técnico em Tecnologia na Germinare Tech |
+| **Atuação** | Assistente de Desenvolvimento em Risco de Crédito no PicPay |
+| **Interesses** | UX/UI Design, Front-end e Análise de Dados |
+| **Atualmente** | Aprofundando meus conhecimentos em design de interfaces e experiência do usuário |
+| **Além do código** | Ukulele, música, cinema e um carinho especial por *Anne with an E* |
 
 <details>
 <summary>A little about me, in English</summary>
 
 <br />
 
-Hi! I'm **Mariana Torres**, but you can call me **Mari**. I study technology at **Germinare Tech** and work as a **Development Assistant in Credit Risk at PicPay**.
+Hi! I'm **Mariana Torres**, but you can call me **Mari**.
 
-I enjoy designing interfaces, making experiences easier to use and exploring what data can tell us. My projects bring together UX/UI, front-end development and AI. Outside of coding, I like playing the ukulele, listening to music and watching films.
+I'm a technology student at **Germinare Tech** and currently work as a **Development Assistant in Credit Risk at PicPay**.
+
+I love combining creativity and technology to turn ideas into meaningful digital experiences. I'm especially interested in **UX/UI Design**, but I also enjoy front-end development, exploring data and learning new things along the way.
+
+When I'm not designing or coding, you'll probably find me playing the ukulele, listening to music, watching a good movie or rewatching *Anne with an E*.
 
 </details>
+
 
 ## Stack
 
@@ -81,7 +91,7 @@ I enjoy designing interfaces, making experiences easier to use and exploring wha
 
 ## Música
 
-Quase sempre tem música por aqui. **Laufey** e **Billie Eilish** estão entre as minhas favoritas, e quando dá eu também toco um pouco de ukulele.
+Por aqui, quase tudo tem uma trilha sonora. Gosto muito de **MPB**, que está sempre presente nos meus dias, seja enquanto estou criando alguma coisa ou só aproveitando o momento.
 
 <div align="center">
 
@@ -109,13 +119,3 @@ Quase sempre tem música por aqui. **Laufey** e **Billie Eilish** estão entre a
 </div>
 
 </details>
-
-## Contato
-
-Gosto de trocar ideias sobre design, tecnologia e dados. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/mariana-torres-aa95453b5/) ou no [Instagram](https://www.instagram.com/marii.torrs/).
-
-<div align="center">
-
-<img src="./assets/footer.svg" alt="Feito com carinho." width="100%" />
-
-</div>
